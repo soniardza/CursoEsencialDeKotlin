@@ -37,6 +37,5 @@ fun main() {
         val key = it.key
         val name = it.value
         println("$key. $name")
-
     }
 }
